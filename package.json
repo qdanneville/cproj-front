@@ -4,7 +4,8 @@
   "description": "Typescript - jest - enzyme - parcel - react - react router - less",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/jest",
+    "dev": "parcel ./src/index.html"
   },
   "jest": {
     "setupFiles": [
