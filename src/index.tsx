@@ -1,0 +1,1 @@
+alert("Le js s'est bien loadé");

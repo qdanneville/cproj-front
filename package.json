@@ -1,0 +1,24 @@
+{
+  "name": "cproj-front",
+  "version": "1.0.0",
+  "description": "Typescript - jest - enzyme - parcel - react - react router - less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdanneville/cproj-front.git"
+  },
+  "author": "Quentin Danneville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qdanneville/cproj-front/issues"
+  },
+  "homepage": "https://github.com/qdanneville/cproj-front#readme",
+  "devDependencies": {
+    "less": "^3.10.3",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.7.2"
+  }
+}
